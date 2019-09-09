@@ -64,3 +64,97 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container{
+	width: 90%;
+	margin: 5rem;
+}
+.navbar a {
+	margin: 20px;
+	display: inline;
+	padding: 40px;
+	text-decoration:none;
+	font-size: 16px;
+}
+.main{
+	margin: 2%;
+	
+}
+.circle{
+	display:inline-block;
+	width:55%;
+}
+button{
+	background:white;
+}
+.main .left{
+	
+	font-size: 50px;
+	display: inline-block;
+	padding: 40px;
+	margin-bottom: 5px;
+	width: 43%;
+}
+.main .left button{
+	margin: 60px;
+	border: 1px solid black;
+	vertical-align: center;
+	width: 43%;
+
+}
+.IOD{
+	font-size: 70px;
+	padding:1%;
+	margin-top: 5%;
+	vertical-align: center;
+}
+	.main .first {
+	vertical-align: center;
+	display: inline-block;	
+	width: 43%;
+	padding: 30px;
+	
+}
+.mid{
+	display: inline;
+	width: 80%;
+
+}
+.mid div{
+	width: 450px;
+	height: 90px;
+	margin: 10px;
+	padding: 40px;
+	display:inline-block;
+	
+}
+.middle-img{
+ margin: 20px;
+ padding: 30px;
+}
+.Mid{
+	width: 80%;
+}
+.Mid div{
+	width: 250px;
+	height: 2px;
+	margin-left:30px; 
+	padding: 20px;
+	display:inline-block;
+}
+.footer {
+	width: 80%;
+	margin: 20px;
+	padding: 20px;
+}
+.footer span h5{
+	color: red;
+	
+	
+}
+.copyright{
+	display:inline-block;
+	position:center;
+	margin-left:45%;
+}
+
+
