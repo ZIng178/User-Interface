@@ -74,10 +74,13 @@ h1, h2, h3, h4, h5 {
 	padding: 40px;
 	text-decoration:none;
 	font-size: 16px;
+	color: gray;
 }
-.main{
-	margin: 2%;
-	
+.main{                                  margin: 2%;
+	}
+
+.logo {
+	margin-top : 15px;
 }
 .circle{
 	display:inline-block;
@@ -86,8 +89,10 @@ h1, h2, h3, h4, h5 {
 button{
 	background:white;
 }
+.main {
+	text-align : center;
+}
 .main .left{
-	
 	font-size: 50px;
 	display: inline-block;
 	padding: 40px;
@@ -107,7 +112,7 @@ button{
 	margin-top: 5%;
 	vertical-align: center;
 }
-	.main .first {
+.main .first {
 	vertical-align: center;
 	display: inline-block;	
 	width: 43%;
